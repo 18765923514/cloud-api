@@ -85,8 +85,8 @@
 * [应用开发<sup style="color:red">(new)<sup>](#)
 	* [介绍](zh-cn/App-dev/Introduce) 
 	* [移动端SDK](zh-cn/App-dev/App-dev-Intro)
-		*  [Android](zh-cn/App-dev/App-dev-Android)
-		*  [IOS](zh-cn/App-dev/App-dev-IOS)
+		* [Android](zh-cn/App-dev/App-dev-Android)
+		* [IOS](zh-cn/App-dev/App-dev-IOS)
 	* [统计分析SDK](zh-cn/App-dev/App-dev-uAnalytics-Intro)
 		* [Android](zh-cn/App-dev/App-dev-uAnalytics)
 
