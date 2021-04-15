@@ -57,8 +57,8 @@
 	* [定时类](zh-cn/IFTTT/ifttt-execute)
 	* [组件类](zh-cn/IFTTT/ifttt-log)
 	* [回调类](zh-cn/IFTTT/ifttt-count)
-	* [场景商店类（Portal）](zh-cn/IFTTT/ifttt-subdata)
-	* [组件类（Portal）](zh-cn/IFTTT/ifttt-management-device)
+	* [APP（Portal）](zh-cn/IFTTT/ifttt-app-portal)
+
 
 
 * [消息类服务](#)  
@@ -70,8 +70,8 @@
 
 
 
-* [设备开发<sup style="color:red">(new)<sup>](#)
-	* [介绍](zh-cn/Device-dev/Introduce) 
+* [设备开发](#)
+	* [介绍](zh-cn/Device-dev/devcie-devlp-intro) 
 	* [物联模组类](zh-cn/Device-dev/module)
 	* [设备SDK类](#)
 		* [Linux](zh-cn/Device-dev/dev-linux)
