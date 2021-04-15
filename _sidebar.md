@@ -25,6 +25,7 @@
 	* [家庭成员管理](zh-cn/Family/fam-member)
 	* [家庭设备管理](zh-cn/Family/fam-device)
 	* [个人用户关系](zh-cn/Family/fam-relationship)
+	* [家庭数据订阅](zh-cn/Family/fam-subdata)
 
 
 * [设备类服务](#)  
@@ -53,11 +54,11 @@
 	* [场景类](zh-cn/IFTTT/ifttt-template) 
 	* [家庭配置类](zh-cn/IFTTT/ifttt-config)
 	* [触发类](zh-cn/IFTTT/ifttt-management-user)
-	* [场景执行](zh-cn/IFTTT/ifttt-execute)
-	* [场景日志](zh-cn/IFTTT/ifttt-log)
-	* [场景统计](zh-cn/IFTTT/ifttt-count)
-	* [场景数据订阅](zh-cn/IFTTT/ifttt-subdata)
-	* [设备场景管理](zh-cn/IFTTT/ifttt-management-device)
+	* [定时类](zh-cn/IFTTT/ifttt-execute)
+	* [组件类](zh-cn/IFTTT/ifttt-log)
+	* [回调类](zh-cn/IFTTT/ifttt-count)
+	* [场景商店类（Portal）](zh-cn/IFTTT/ifttt-subdata)
+	* [组件类（Portal）](zh-cn/IFTTT/ifttt-management-device)
 
 
 * [消息类服务](#)  
@@ -77,8 +78,7 @@
 		* [Android](zh-cn/Device-dev/dev-android)
 		* [RTOS](zh-cn/Device-dev/dev-rtos)	
 		
-	* [云设备类](zh-cn/Device-dev/dev-direct)
-	
+	* [云设备类](zh-cn/Device-dev/dev-direct)	
 
 	* [云云对接类](zh-cn/Device-dev/device-c2c)
 
@@ -91,9 +91,10 @@
 
 
 * [常见问题<sup style="color:red">(new)<sup>](#)
-	* [移动SDK相关问题](zh-cn/Questions/Introduce) 
-	* [设备SDK相关问题](#)
-	* [设备控制相关问题](#)
+	* [移动SDK相关问题](zh-cn/Questions/usdk-qa) 
+	* [设备SDK相关问题](zh-cn/Questions/ioT-sdk-qa)
+	* [设备控制相关问题](zh-cn/Questions/dev-qa)
+	* [云服务调用相关问题](zh-cn/Questions/uws-qa)
 
 
 * [解决方案<sup style="color:red">(new)<sup>](#)
